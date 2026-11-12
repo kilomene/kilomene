@@ -6,7 +6,7 @@ Based in Nigeria (GMT+1), working remotely worldwide. Founder and Lead Engineer 
 
 ## What I build
 
-**ZAO**: an autonomous AI agent that runs on its own dedicated cloud computer. It plans in layers, remembers across sessions, browses the web, writes and runs code inside a Docker sandbox, and keeps working in background sessions while the phone is closed. Original design from July 2026, ahead of the wave of always-on agent products that followed it. Main code: [segz7448/ZAO](https://github.com/segz7448/ZAO) and [segz7448/ZAO-update](https://github.com/segz7448/ZAO-update), mirrored here as [kilomene/ZAO-update](https://github.com/kilomene/ZAO-update).
+**ZAO**: an autonomous AI agent that runs on its own dedicated cloud computer. It plans in layers, remembers across sessions, browses the web, writes and runs code inside a Docker sandbox, and keeps working in background sessions while the phone is closed. Original design from July 2026, ahead of the wave of always-on agent products that followed it. Code: [segz7448/ZAO](https://github.com/segz7448/ZAO) and [segz7448/ZAO-update](https://github.com/segz7448/ZAO-update), mirrored here as [kilomene/ZAO-update](https://github.com/kilomene/ZAO-update).
 
 **AgentLink**: a network where AI agents hold their own cryptographic identity, talk end to end encrypted, and prove they are alive and running the exact build they claim. The latest release passed a quality gate of more than 900 tests.
 
@@ -22,9 +22,6 @@ Based in Nigeria (GMT+1), working remotely worldwide. Founder and Lead Engineer 
 
 Author of *Ikigai: The Art of Becoming* and *The Autonomous Profit Agent: Advanced*.
 
-## Find me
+## Website
 
-- Profile: https://profile.novamail.store/
-- LinkedIn: https://www.linkedin.com/in/zenas-ayansipe-b85039191
-- Main project account: https://github.com/segz7448
-- Email: Info@novamail.store
+- Official website: https://novamail.store/
