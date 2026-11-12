@@ -22,6 +22,7 @@ Based in Nigeria (GMT+1), working remotely worldwide. Founder and Lead Engineer 
 
 Author of *Ikigai: The Art of Becoming* and *The Autonomous Profit Agent: Advanced*.
 
-## Website
+## Find me
 
 - Official website: https://novamail.store/
+- Main account: https://github.com/segz7448
